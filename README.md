@@ -2,6 +2,7 @@
 - 🎓 Estou cursando Análise e desenvolvimento de sistemas e Desenvolvimento web java
 - 🚀 Estou estudando HTML 5 e CSS 3
 - 🌃 Terra da garoa - SP 🌃
+- 🤓 19 yrs
 - 🎮 Nas horas vagas gosto de jogar MLBB
 - 🌐 Contate-me
 

@@ -4,7 +4,7 @@
 - 🌃 Terra da garoa - SP 🌃
 - 🤓 19 yrs
 - 🎮 Nas horas vagas gosto de jogar MLBB
-- 🌐 Visite a wiki dos meus repositórios e projetos!
+- 🌐 Visite o READ.ME dos meus repositórios e projetos!
 
 
 

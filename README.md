@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Mig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Mig-Gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/947910673470480397/947917931902291988/tu_reaccion_cuando_ya_estas_como_astronauta_de_tanto_alcohol__muy_contento_con_tu_cuetito.gif">
+  <img align="right" alt="Mig-Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">
 </div>
   
   ##

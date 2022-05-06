@@ -31,4 +31,5 @@
  </a>
 <a href="." target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
-![Snake animation](https://github.com/vitalmiguelsantos)
+   
+![Snake animation](https://github.com/vitalmiguelsantos/vitalmiguelsantos/blob/output/github-contribution-grid-snake.svg)

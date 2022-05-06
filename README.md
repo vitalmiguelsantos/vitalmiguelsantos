@@ -15,11 +15,10 @@
 </div>
   
 <div display:"inline-block"><br>
-  <img align="center" alt="Mig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mig-JS" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Mig-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="Mig-Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="100" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="right" alt="Mig-Gif" height="200" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">
 </div>
   
@@ -32,3 +31,4 @@
  </a>
 <a href="." target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
+![Snake animation](https://github.com/vitalmiguelsantos/vitalmiguelsantos/blob/main/.github/workflows/main.yml)

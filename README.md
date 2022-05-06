@@ -8,16 +8,16 @@
 
 
 
-<div align="center">
+<div display:"inline-block">
   <a href="https://github.com/vitalmiguelsantos">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=vitalmiguelsantos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalmiguelsantos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-<div style="display: inline"><br>
-  <img align="center" alt="Mig-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mig-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Mig-Gif" height="120" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">
+<div display:"inline-block"><br>
+  <img align="center" alt="Mig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Mig-Gif" height="200" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">
 </div>
   
   ##

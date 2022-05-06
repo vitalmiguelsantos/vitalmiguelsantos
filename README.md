@@ -13,7 +13,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vitalmiguelsantos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalmiguelsantos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
- <div display:"inline-block" align="left"><br>
+ <div display:"inline-block" align="center"><br>
   <img align="justify" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="justify" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="justify" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">

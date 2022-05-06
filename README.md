@@ -1,4 +1,4 @@
-## Salve! Aqui é o Miguel ✌️
+## <p align="center">Salve! Aqui é o Miguel ✌️</p>
 - 🎓 Estou cursando Análise e desenvolvimento de sistemas e Desenvolvimento web java
 - 🚀 Estou estudando HTML 5 e CSS 3
 - 🌃 Terra da garoa - SP 🌃
@@ -14,7 +14,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitalmiguelsantos&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Mig-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mig-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Mig-Gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/8gGjB1JF7ooAAAAC/space-astronaut.gif">

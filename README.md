@@ -1,7 +1,7 @@
 ## <p align="center">Salve! Aqui é o Miguel ✌️</p>
 - 🎓 Estou cursando Análise e desenvolvimento de sistemas e Desenvolvimento web java
 - 🚀 "10% é talento e o resto é esforço"
-- 🌃 Terra da garoa - SP 🌃
+- 🌃 Terra da garoa 🌃
 - 🤓 19 yrs
 - 🎮 Nas horas vagas gosto de jogar MLBB
 - 🌐 Visite o READ.ME dos meus repositórios e projetos!

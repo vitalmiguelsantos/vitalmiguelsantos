@@ -3,7 +3,7 @@
 - 🚀 "10% é talento e o resto é esforço"
 - 🌃 Terra da garoa 🌃
 - 🤓 19 yrs
-- 🎮 Nas horas vagas gosto de jogar MLBB
+- 🎮 Nas horas vagas gosto de jogar 
 - 🌐 Visite o READ.ME dos meus repositórios e projetos!
 
 

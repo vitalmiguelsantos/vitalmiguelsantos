@@ -1,4 +1,4 @@
-## <p align="center">Salve! Aqui é o Miguel 🤓✌️</p>
+## <p align="center">Salve! Aqui é o Miguel ✌️</p>
 
 - 🚀 "10% é talento e o resto é esforço"
 - 🌃 Terra da garoa 🌃

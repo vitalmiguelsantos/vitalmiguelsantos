@@ -21,9 +21,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vitalmiguelsantos/vitalmiguelsantos/output/github-contribution-grid-snake.svg">
 </picture>
 
-#
-
- <img align="right" alt="Mig-Gif" height="200" style="border-radius:50px;" src="">
+ <img align="right" alt="Mig-Gif" height="200" style="border-radius:50px;" src="https://github.com/vitalmiguelsantos/vitalmiguelsantos/blob/main/undefined%20-%20Imgur.gif">
 
 #
 

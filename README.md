@@ -1,8 +1,8 @@
-## <p align="center">Salve! Aqui é o Miguel ✌️</p>
+## <p align="center">Yo! I'm Miguel and I do some coding. ✌️</p>
 
-- 🚀 "10% é talento e o resto é esforço"
+- 🚀 "0 and 1 also tell stories."
 - 🌃 Terra da garoa 🌃
-- 🎮 Nas horas vagas gosto de jogar 
+- 🎮 MTG player 
 
 ##
 

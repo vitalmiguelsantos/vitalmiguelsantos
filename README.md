@@ -1,9 +1,7 @@
 ## <p align="center">Yo! I'm Miguel and I do some coding. ✌️</p>
-
-- 🚀 "0 and 1 also tell stories."
-- 🌃 Terra da garoa 🌃
-- 🎮 MTG player 
-
+<div align="center">
+"0 and 1 also tell stories."
+</div>
 ##
 
 <div display:"inline" align="center">
